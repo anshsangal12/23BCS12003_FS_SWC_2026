@@ -22,7 +22,7 @@ async function abc() {
                 // Promise gets resolved with this object
                 resolve({
                     id: 2,
-                    username: "Aaditya"
+                    username: "Ansh"
                 });
 
             }, 2000);
