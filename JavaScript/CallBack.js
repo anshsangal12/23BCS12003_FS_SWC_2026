@@ -8,12 +8,12 @@ function abc(callback) {
     setTimeout(() => {
 
         // Executes after timer completion
-        console.log("2. Aaditya");
+        console.log("2. Ansh");
 
         // Callback function is called with user object
         callback({
             id: 1,
-            username: "aaditya_30"
+            username: "ansh_30"
         });
 
     }, 2000);
